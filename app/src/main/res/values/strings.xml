@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidDojoWithKotlin</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="amountText">總金額：</string>
+    <string name="amountValueText">請選擇品項</string>
+
+
+    <string name="helloText">Hello World</string>
+    <string name="price_heading">剛才選擇項目的金額：%d</string>
+
+    <string name="greenTea">綠茶</string>
+    <string name="blackTea">紅茶</string>
+    <string name="ooLongTea">烏龍茶</string>
+    <string name="milkTea">奶茶</string>
+
+
+</resources>
